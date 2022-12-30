@@ -687,6 +687,7 @@
  \begin{center}
  \begin{minipage}{0.8\textwidth}%
 }{
+\\\\\\
 ~
 \vspace{0.5cm}
 \hfill{\sc \@coordenacao}   
